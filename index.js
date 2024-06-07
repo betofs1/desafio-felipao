@@ -1,5 +1,3 @@
-// Desafio de projeto 01
-// Dev: Valberto Ferreira
 
 // Variáveis
 let nomeHeroi = ["Mega" , "Zaad" , "Zord" , "Steel", "Maxx", "Sinner"]
